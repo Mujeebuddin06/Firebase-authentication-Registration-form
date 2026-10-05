@@ -26,7 +26,7 @@ modern-login-page/
 🚀 Getting Started
 1. Clone the repository
 bash
-git clone https://github.com/your-username/modern-login-page.git
+git clone https://github.com/Mujeebuddin06/Firebase-authentication-Registration-form/
 cd modern-login-page
 2. Set up Firebase
 Create a project in the Firebase Console.
